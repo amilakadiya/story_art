@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/story_art.git/static/css/main.e8eeea0f.chunk.css",
+    "main.js": "/story_art.git/static/js/main.882269b8.chunk.js",
+    "main.js.map": "/story_art.git/static/js/main.882269b8.chunk.js.map",
+    "runtime-main.js": "/story_art.git/static/js/runtime-main.b054104f.js",
+    "runtime-main.js.map": "/story_art.git/static/js/runtime-main.b054104f.js.map",
+    "static/js/2.cd4d669f.chunk.js": "/story_art.git/static/js/2.cd4d669f.chunk.js",
+    "static/js/2.cd4d669f.chunk.js.map": "/story_art.git/static/js/2.cd4d669f.chunk.js.map",
+    "static/js/3.3d9fbc48.chunk.js": "/story_art.git/static/js/3.3d9fbc48.chunk.js",
+    "static/js/3.3d9fbc48.chunk.js.map": "/story_art.git/static/js/3.3d9fbc48.chunk.js.map",
+    "index.html": "/story_art.git/index.html",
+    "static/css/main.e8eeea0f.chunk.css.map": "/story_art.git/static/css/main.e8eeea0f.chunk.css.map",
+    "static/js/2.cd4d669f.chunk.js.LICENSE.txt": "/story_art.git/static/js/2.cd4d669f.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/story_art.git/static/media/3.20b6162a.jpg",
+    "static/media/Travel.6d260cef.png": "/story_art.git/static/media/Travel.6d260cef.png",
+    "static/media/dp.39c78eeb.png": "/story_art.git/static/media/dp.39c78eeb.png",
+    "static/media/love.c194f5d3.png": "/story_art.git/static/media/love.c194f5d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b054104f.js",
+    "static/js/2.cd4d669f.chunk.js",
+    "static/css/main.e8eeea0f.chunk.css",
+    "static/js/main.882269b8.chunk.js"
+  ]
+}
