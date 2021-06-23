@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/story_art/static/css/main.accd093e.chunk.css",
-    "main.js": "/story_art/static/js/main.b35d91af.chunk.js",
-    "main.js.map": "/story_art/static/js/main.b35d91af.chunk.js.map",
+    "main.css": "/story_art/static/css/main.c311f033.chunk.css",
+    "main.js": "/story_art/static/js/main.831d9109.chunk.js",
+    "main.js.map": "/story_art/static/js/main.831d9109.chunk.js.map",
     "runtime-main.js": "/story_art/static/js/runtime-main.349cbd5b.js",
     "runtime-main.js.map": "/story_art/static/js/runtime-main.349cbd5b.js.map",
-    "static/js/2.a2c10da8.chunk.js": "/story_art/static/js/2.a2c10da8.chunk.js",
-    "static/js/2.a2c10da8.chunk.js.map": "/story_art/static/js/2.a2c10da8.chunk.js.map",
+    "static/js/2.16a3b7c2.chunk.js": "/story_art/static/js/2.16a3b7c2.chunk.js",
+    "static/js/2.16a3b7c2.chunk.js.map": "/story_art/static/js/2.16a3b7c2.chunk.js.map",
     "static/js/3.90cfe34e.chunk.js": "/story_art/static/js/3.90cfe34e.chunk.js",
     "static/js/3.90cfe34e.chunk.js.map": "/story_art/static/js/3.90cfe34e.chunk.js.map",
     "index.html": "/story_art/index.html",
-    "static/css/main.accd093e.chunk.css.map": "/story_art/static/css/main.accd093e.chunk.css.map",
-    "static/js/2.a2c10da8.chunk.js.LICENSE.txt": "/story_art/static/js/2.a2c10da8.chunk.js.LICENSE.txt",
+    "static/css/main.c311f033.chunk.css.map": "/story_art/static/css/main.c311f033.chunk.css.map",
+    "static/js/2.16a3b7c2.chunk.js.LICENSE.txt": "/story_art/static/js/2.16a3b7c2.chunk.js.LICENSE.txt",
     "static/media/style.css": "/story_art/static/media/3.20b6162a.jpg",
     "static/media/Travel.6d260cef.png": "/story_art/static/media/Travel.6d260cef.png",
     "static/media/dp.39c78eeb.png": "/story_art/static/media/dp.39c78eeb.png",
-    "static/media/love.c194f5d3.png": "/story_art/static/media/love.c194f5d3.png"
+    "static/media/love.c194f5d3.png": "/story_art/static/media/love.c194f5d3.png",
+    "static/media/poster_1.d71958e9.png": "/story_art/static/media/poster_1.d71958e9.png",
+    "static/media/poster_2.65351109.png": "/story_art/static/media/poster_2.65351109.png",
+    "static/media/poster_3.e82dc83f.png": "/story_art/static/media/poster_3.e82dc83f.png",
+    "static/media/poster_4.b98c914e.png": "/story_art/static/media/poster_4.b98c914e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.349cbd5b.js",
-    "static/js/2.a2c10da8.chunk.js",
-    "static/css/main.accd093e.chunk.css",
-    "static/js/main.b35d91af.chunk.js"
+    "static/js/2.16a3b7c2.chunk.js",
+    "static/css/main.c311f033.chunk.css",
+    "static/js/main.831d9109.chunk.js"
   ]
 }
